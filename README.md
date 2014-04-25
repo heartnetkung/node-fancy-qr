@@ -39,4 +39,4 @@ Options can have the following fields:
 * r: red color of the qr output (logo unaffected) [0-255]
 * g: green color [0-255]
 * b: blue color [0-255]
-* logoPath: path of the logo, recommended 30 x 30 or smalled
+* logoPath: path of the logo, recommended 30 x 30 or smaller
