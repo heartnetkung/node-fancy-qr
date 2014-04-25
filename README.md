@@ -1,5 +1,7 @@
 ## Fancy QR
 Create QR code with logo or a change of color. The data capacity is up to ~1200 bytes. Here is the example of your output:
+
+
 ![alt text](https://raw.githubusercontent.com/wiki/heartnetkung/node-fancy-qr/out.png "Screenshot 1")
 ![alt text](https://raw.githubusercontent.com/wiki/heartnetkung/node-fancy-qr/out2.png "Screenshot 2")
 
