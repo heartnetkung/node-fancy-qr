@@ -1,0 +1,15 @@
+{
+	"name": "fancyqr",
+	"description": "Create QR code with logo or a change of color.",
+	"version": "0.0.1",
+	"dependencies": {
+		"qrcode": ">= 0.2.10"
+	},
+	"main": "lib/fancyqr.js",
+	"author": "heartnetkung <heartnetkung@gmail.com>",
+	"homepage": "",
+	"repository": {
+		"type": "git",
+		"url": ""
+	}
+}
