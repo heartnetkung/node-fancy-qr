@@ -7,9 +7,9 @@
 	},
 	"main": "lib/fancyqr.js",
 	"author": "heartnetkung <heartnetkung@gmail.com>",
-	"homepage": "",
+	"homepage": "https://github.com/heartnetkung/node-fancy-qr",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/heartnetkung/node-fancy-qr.git"
 	}
 }
